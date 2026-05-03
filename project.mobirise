@@ -47,7 +47,9 @@
     "uniqCompNum": 13,
     "versionPublish": "6.0.5",
     "imageResize": true,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
